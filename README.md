@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning cross platform app development using flutter
 - 💞️ I’m looking to collaborate on building great user friendly apps
-- 📫 How to reach me +234 9035390852, ajayiayodele23@gmail.com, ayaj1021@gmail.com
+- 📫 How to reach me +234 9035390852, +234 9152330553, ajayiayodele23@gmail.com, ayaj1021@gmail.com
 
 <!---
 ayaj1021/ayaj1021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
